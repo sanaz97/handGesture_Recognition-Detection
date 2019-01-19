@@ -1,4 +1,4 @@
-# handGesture_Recognition-Detection
+# handGesture_Recognition&Detection
 our project contains 5 parts that 3 parts are Implementation of CNN network and 2 parts are Implementation of detection hand gestures:
 
 1)say numbers
