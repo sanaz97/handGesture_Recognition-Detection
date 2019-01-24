@@ -12,7 +12,7 @@ our project contains 5 parts that 3 parts are Implementation of CNN network and 
 5)volume control
 
 
-Requirements:
+**Requirements:**
 
 python or python3 
 
