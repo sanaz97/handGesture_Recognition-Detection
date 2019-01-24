@@ -44,5 +44,5 @@ our project contains 5 parts that 3 parts are Implementation of CNN network and 
 **How to run ?**
 
 ```
-python main.py
+python hand_gesture_main_program.py
 ```
