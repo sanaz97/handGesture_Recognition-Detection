@@ -43,6 +43,23 @@ our project contains 5 parts that 3 parts are Implementation of CNN network and 
 
 **How to run ?**
 
+if you want to use pretrained modelsl,use command below.
+
 ```
 python hand_gesture_main_program.py
+```
+
+but if you want to train again the models follow steps below:
+
+for training i_love_you Run :
+```
+python Recognize_Gesture.py
+```
+for training say_numbers Run:
+```
+python traingest.py
+```
+for training posenet Run:
+```
+python ModelTrainer.py
 ```
