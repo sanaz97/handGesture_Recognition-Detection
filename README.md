@@ -43,7 +43,7 @@ our project contains 5 parts that 3 parts are Implementation of CNN network and 
 
 **How to run ?**
 
-if you want to use pretrained models,use command below.
+if you want to use pretrained models, use command below.
 
 ```
 python hand_gesture_main_program.py
